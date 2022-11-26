@@ -15,6 +15,6 @@ As a developer, you need agility in changing between python versions. Here we co
 
     You can see something like this image:
 
-    [INSTALLATION](images/installation.png)
+    ![INSTALLATION](images/installation.png)
 
 3. Close and reopen your terminal before using it.
