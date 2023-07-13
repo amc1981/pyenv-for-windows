@@ -1,11 +1,11 @@
-# Pyenv for Windows
+# pyenv for Windows
 Quick guide to install pyenv on Windows PowerShell
 
 ## Introduction
 
 As a developer, you need agility in changing between python versions. Here we come with an excellent option. 
 
-Pyenv is a command line tool that enables you to switch from one version to another, install specific packages for each version or execute a particular python script that only runs with a previous version than yours.
+pyenv is a command line tool that enables you to switch from one version to another, install specific packages for each version or execute a particular python script that only runs with a previous version than yours.
 
 ## Installation
 
